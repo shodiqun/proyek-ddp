@@ -1,3 +1,4 @@
+#melihat harga saham
 import tkinter as tk
 from tkinter import ttk
 from ttkbootstrap import Style
